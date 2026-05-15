@@ -1,0 +1,42 @@
+Chess ELO Rating for both Drivers and Passengers. In an ideal world, pair in terms of ELO.
+
+Landmarks: calculated from their coordinates
+Examples:
+- University Stadium
+- Facility Services
+- University Village (Townhouses)
+- Softball Field
+- Baseball Field
+- Athletic Track
+- University Stadium
+- Lacrosse Field
+- Campus and Community Children's Center
+- Shulz Hall
+- Hemingway Hall
+- Igoe Hall
+- __ Hall
+- Grissom Hall
+- Disney Hall
+- Eisenhower Hall
+- Kasling Hall
+- LoGrasso Hall (Student Health Center) [H]
+- Gregory Hall
+- University Commons
+- McGinnies Hall
+- Chautauqua Hall
+- Nixon Hall
+- Alumni Hall
+- Williams Center
+- Jewett Hall
+- Science Center
+- Houghton Hall
+- Reed Library
+- Fenton Hall
+- Thompson Hall 
+- Mason Hall
+- Rockefeller Arts Center
+- Maytum Hall
+- Dods Hall
+- Steele Hall
+- Alumni House
+- 
